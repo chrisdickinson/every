@@ -1,0 +1,24 @@
+{
+  "name": "every",
+  "version": "0.0.0",
+  "description": "event emitter form of setInterval",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/every.git"
+  },
+  "keywords": [
+    "timer",
+    "setInterval",
+    "events"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "gitHead": "91221a51d0e335671d5797152dac2040d54e9147",
+  "devDependencies": {
+    "tape": "~0.2.2"
+  }
+}
