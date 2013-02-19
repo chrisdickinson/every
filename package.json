@@ -1,7 +1,7 @@
 {
   "name": "every",
   "version": "0.0.0",
-  "description": "event emitter form of setInterval",
+  "description": "an event emitter for integer-based millisecond steps",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
