@@ -1,6 +1,6 @@
 {
   "name": "every",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "an event emitter for integer-based millisecond steps",
   "main": "index.js",
   "scripts": {
